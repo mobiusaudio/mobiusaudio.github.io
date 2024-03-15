@@ -7,3 +7,17 @@
     z-index: 999; /* Ensure the image stays on top of other content */
 }
 
+.about-section {
+    margin-top: 100px; /* Adjust the top margin to give space below the image */
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.about-section h2 {
+    color: #333;
+}
+
+.about-section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
