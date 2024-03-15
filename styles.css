@@ -1,6 +1,6 @@
 #logo {
     position: absolute; /* Position the image absolutely */
-    top: 10px; /* Adjust the top position according to your design */
+    top: 0px; /* Adjust the top position according to your design */
     left: 20px; /* Adjust the left position according to your design */
     width: 200px; /* Adjust the width of the image */
     height: auto; /* Maintain aspect ratio */
@@ -8,7 +8,7 @@
 }
 
 .about-section {
-    margin-top: 100px; /* Adjust the top margin to give space below the image */
+    margin-top: 140px; /* Adjust the top margin to give space below the image */
     padding: 10px;
     background-color: #f0f0f0;
 }
