@@ -1,0 +1,9 @@
+#logo {
+    position: absolute; /* Position the image absolutely */
+    top: 20px; /* Adjust the top position according to your design */
+    left: 20px; /* Adjust the left position according to your design */
+    width: 200px; /* Adjust the width of the image */
+    height: auto; /* Maintain aspect ratio */
+    z-index: 999; /* Ensure the image stays on top of other content */
+}
+
